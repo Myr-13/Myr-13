@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there!
+Me is C/C++ cultist
 
-<!--
-**Myr-13/Myr-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rust](https://cdn.discordapp.com/emojis/874320285824852008.png?v=1&size=48&quality=lossless)
+![C++](https://cdn.discordapp.com/emojis/853515718028558336.gif?v=1&size=48&quality=lossless)
 
-Here are some ideas to get you started:
+# Some stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Myr-13&count_private=true&theme=vue&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myr-13)
+
+### Contact me
+**Discord**: Mʎɹ シ#3684
