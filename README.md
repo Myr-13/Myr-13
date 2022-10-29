@@ -9,5 +9,5 @@ Me is C/C++ cultist
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myr-13)
 
-### Contact me
+# Contact me
 **Discord**: Mʎɹ シ#3684
