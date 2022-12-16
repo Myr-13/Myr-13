@@ -11,3 +11,4 @@ Me is C/C++ cultist
 
 # Contact me
 **Discord**: Mʎɹ シ#3684
+**Telegram**: @myrkotov
